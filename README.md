@@ -1,4 +1,4 @@
-# From Sea to Summit
+# UIS Commission on Karst hydrogeology and speleogenesis
 
 This repository hosts a [static site](https://uis-karst-hydrogeology-speleogenesis.github.io) for the **UIS karst hydrogeology and speleogenesis** project.
 
