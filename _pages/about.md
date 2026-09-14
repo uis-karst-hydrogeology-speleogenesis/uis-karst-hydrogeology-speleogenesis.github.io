@@ -19,7 +19,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Some information about the UIS commision on karst hydrogeologeeology and speleogenesis.
+Some information about the UIS commision on karst hydrogeologeeology and speleogenesis will be written here. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
