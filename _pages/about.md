@@ -19,11 +19,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Some information about the UIS commision on karst hydrogeologeeology and speleogenesis will be written here. 
+Some additional information about the UIS commision on karst hydrogeologeology and speleogenesis will be written here. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/logos/logo_uis.png" title="Roquette" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/best-conduit.jpg" title="logo uis" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Grotte de la Cocalière, Ardèche, France © Tanguy Racine (2026)
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logos/logo_uis.png" title="logo uis" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
