@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: subcommissions
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: You can find below more detailed information about the two subcommissions headed by Serena Liso and Tanguy Racine
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [subcommissions]
 horizontal: false
 ---
 
