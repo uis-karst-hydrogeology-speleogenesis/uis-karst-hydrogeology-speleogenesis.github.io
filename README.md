@@ -1,8 +1,8 @@
 # From Sea to Summit
 
-This repository hosts a [static site](https://from-sea-to-summit.github.io) for the **From Sea to Summit** project.
+This repository hosts a [static site](https://uis-karst-hydrogeology-speleogenesis.github.io) for the **UIS karst hydrogeology and speleogenesis** project.
 
-_This work is financed by grant from the Swiss and Croatian National Science Foundations_</a>
+_This work is supported by the International Speleological Union (UIS)_</a>
 
 ## License
 
